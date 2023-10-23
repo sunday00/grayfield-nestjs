@@ -1,3 +1,7 @@
+[submodule "gray-auth"]
+        path = gray-auth
+        url = https://github.com/sunday00/grayfield-auth
+
 [submodule "gray-gateway"]
 	path = gray-gateway
 	url = https://github.com/sunday00/grayfield-gateway
