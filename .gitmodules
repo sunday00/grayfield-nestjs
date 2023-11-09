@@ -2,6 +2,10 @@
         path = gray-auth
         url = https://github.com/sunday00/grayfield-auth
 
+[submodule "gray-article"]
+	path = gray-article
+	url = https://github.com/sunday00/grayfield-article
+
 [submodule "gray-blog"]
 	path = gray-blog
 	url = https://github.com/sunday00/grayfield-blog
