@@ -17,3 +17,15 @@ tech blog
   - .env
   - .env.prod
   - nest-cli.json
+
+- update git action flow
+- update docker
+- update env
+- update package.json
+
+- prisma copy
+- npm reinstall for update prisma
+
+- make git repository
+- set git action env secret
+  - nas server, user, pw, port(22)
