@@ -9,3 +9,7 @@
 [submodule "gray-blog"]
 	path = gray-blog
 	url = https://github.com/sunday00/grayfield-blog
+
+[submodule "gray-media"]
+	path = gray-media
+	url = https://github.com/sunday00/grayfield-media
