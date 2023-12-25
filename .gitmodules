@@ -17,3 +17,6 @@
 [submodule "gray-admin"]
 	path = gray-admin
 	url = https://github.com/sunday00/grayfield-admin
+[submodule "grayfield-admin"]
+	path = grayfield-admin
+	url = https://github.com/sunday00/grayfield-admin
