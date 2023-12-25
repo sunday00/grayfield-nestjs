@@ -13,3 +13,7 @@
 [submodule "gray-media"]
 	path = gray-media
 	url = https://github.com/sunday00/grayfield-media
+
+[submodule "gray-admin"]
+	path = gray-admin
+	url = https://github.com/sunday00/grayfield-admin
