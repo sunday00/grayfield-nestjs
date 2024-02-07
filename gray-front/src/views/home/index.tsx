@@ -19,7 +19,7 @@ graph TD;
 
 ## this is sub
 
-> How to include queto
+> How to include queto.
 
 <!-- c -->
 
