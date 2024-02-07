@@ -37,6 +37,7 @@ const Home = () => {
       <h1>Home</h1>
       <MDEditor
         source={raw}
+        style={{ padding: '2em' }}
         components={{
           code: Code,
         }}
