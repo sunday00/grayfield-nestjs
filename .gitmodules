@@ -22,3 +22,6 @@
 [submodule "gray-front"]
 	path = gray-front
 	url = https://github.com/sunday00/grayfield-front
+[submodule "gray-pages"]
+	path = gray-pages
+	url = https://github.com/sunday00/grayfield-pages
