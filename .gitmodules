@@ -25,3 +25,6 @@
 [submodule "gray-pages"]
 	path = gray-pages
 	url = https://github.com/sunday00/grayfield-pages
+[submodule "gray-schedule"]
+	path = gray-schedule
+	url = https://github.com/sunday00/grayfield-schedule
